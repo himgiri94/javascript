@@ -1,0 +1,10 @@
+Big DATA word
+focus on concept or idea
+    syntax parser
+    execution contexts
+    lexical environments
+java script code runs in execution context(global) and creates global object and global variable 'this'
+global
+    it doesn't means inside function, it means outside function.
+
+Even if we run an empty js app this variable is created and you can observe its properties.
